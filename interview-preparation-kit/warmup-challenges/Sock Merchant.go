@@ -8,7 +8,7 @@ import (
     "strconv"
     "strings"
 )
-
+// Problem Link https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup
 // Complete the sockMerchant function below.
 func sockMerchant(n int32, ar []int32) (result int32) {
     var arrTemp [500]int32
